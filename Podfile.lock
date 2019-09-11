@@ -1,0 +1,24 @@
+PODS:
+  - SygicMaps (14.0.3)
+  - SygicMapsKit (3.0.0):
+    - SygicMaps (~> 14.0)
+    - SygicUIKit (~> 3.0)
+  - SygicUIKit (3.0.0)
+
+DEPENDENCIES:
+  - SygicMapsKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SygicMaps
+    - SygicMapsKit
+    - SygicUIKit
+
+SPEC CHECKSUMS:
+  SygicMaps: e7756f9e336f7b2be41b2bbcb3187aacfa2cf457
+  SygicMapsKit: 6022b27e6f2eacb0577d9a353bf2307d8bb143f7
+  SygicUIKit: f7c70f7dbb0b798093663d041d435dc567cabf05
+
+PODFILE CHECKSUM: ed3dc506230921dbf4dde6c99cf50be4902f433f
+
+COCOAPODS: 1.7.5
